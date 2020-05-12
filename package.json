@@ -7,7 +7,11 @@
     "vscode": "^1.45.0"
   },
   "publisher": "gitKendra",
-  "icon": "icon.png",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "light"
+  },
   "homepage": "https://github.com/gitKendra/hop-light-italics-theme-vscode/blob/master/README.md",
   "repository": {
     "type": "git",

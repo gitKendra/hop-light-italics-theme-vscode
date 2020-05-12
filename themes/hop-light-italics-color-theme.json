@@ -1,6 +1,6 @@
 {
-	"name": "Hop Light (Italics)",
-	"type": "light",
+  "name": "Hop Light (Italics)",
+  "type": "light",
   "colors": {
     "editor.background": "#ffffff",
     "editor.foreground": "#4d4d4c",
@@ -257,96 +257,5 @@
         "foreground": "#800080"
       }
     }
-
-    // {
-    //   "scope": "comment",
-    //   "settings": {
-    //     "foreground": "#96928F"
-    //   }
-    // },
-    // {
-    //   "scope": "keyword.operator.class, constant.other, source.php.embedded.line",
-    //   "settings": {
-    //     "foreground": "#666969",
-    //     "fontStyle": ""
-    //   }
-    // },
-    // {
-    //   "scope": "variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, meta.tag, declaration.tag",
-    //   "settings": {
-    //     "foreground": "#C82829"
-    //   }
-    // },
-    // {
-    //   "scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
-    //   "settings": {
-    //     "foreground": "#398BC9",
-    //     "fontStyle": ""
-    //   }
-    // },
-    // {
-    //   "scope": "entity.name.class, entity.name.type.class, support.type, support.class",
-    //   "settings": {
-    //     "foreground": "#C99E00",
-    //     "fontStyle": ""
-    //   }
-    // },
-    // {
-    //   "scope": "string, constant.other.symbol, entity.other.inherited-class, markup.heading",
-    //   "settings": {
-    //     "foreground": "#BD7111",
-    //     "fontStyle": ""
-    //   }
-    // },
-    // {
-    //   "scope": "keyword.operator, constant.other.color",
-    //   "settings": {
-    //     "foreground": "#398BC9"
-    //   }
-    // },
-    // {
-    //   "scope": "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level",
-    //   "settings": {
-    //     "foreground": "#4271AE",
-    //     "fontStyle": ""
-    //   }
-    // },
-    // {
-    //   "scope": "keyword, storage, storage.type, entity.other.attribute-name",
-    //   "settings": {
-    //     "foreground": "#8959A8"
-    //   }
-    // },
-    // {
-    //   "scope": "meta.separator",
-    //   "settings": {
-    //     "foreground": "#373B41",
-    //     "background": "#E0E0E0"
-    //   }
-    // },
-    // {
-    //   "scope": "token.info-token",
-    //   "settings": {
-    //     "foreground": "#316BCD"
-    //   }
-    // },
-    // {
-    //   "scope": "token.warn-token",
-    //   "settings": {
-    //     "foreground": "#CD9731"
-    //   }
-    // },
-    // {
-    //   "scope": "token.error-token",
-    //   "settings": {
-    //     "foreground": "#CD3131"
-    //   }
-    // },
-    // {
-    //   "scope": "token.debug-token",
-    //   "settings": {
-    //     "foreground": "#800080"
-    //   }
-    // }
   ]
 }

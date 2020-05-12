@@ -1,12 +1,18 @@
 {
   "name": "hop-light-with-italics",
   "displayName": "Hop Light with Italics",
-  "description": "Hop Light theme colors using Tomorrow Operator Mono theme settings",
-  "version": "0.0.1",
+  "description": "This VSCode theme merges the colors from Hop Light Theme with the font styles (italic, bold, and underline) of Tomorrow and Tomorrow Night Operator Mono Theme",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.45.0"
   },
   "publisher": "gitKendra",
+  "icon": "icon.png",
+  "homepage": "https://github.com/gitKendra/hop-light-italics-theme-vscode/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitKendra/hop-light-italics-theme-vscode.git"
+  },
   "categories": [
     "Themes"
   ],

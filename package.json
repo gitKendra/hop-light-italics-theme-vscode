@@ -1,0 +1,22 @@
+{
+  "name": "hop-light-with-italics",
+  "displayName": "Hop Light with Italics",
+  "description": "Hop Light theme colors using Tomorrow Operator Mono theme settings",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "publisher": "gitKendra",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hop Light (Italics)",
+        "uiTheme": "vs",
+        "path": "./themes/hop-light-italics-color-theme.json"
+      }
+    ]
+  }
+}

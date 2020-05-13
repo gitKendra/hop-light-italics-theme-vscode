@@ -1,6 +1,4 @@
-# README
-
-## Hop Light with Italics
+## Hop Light with Italics Theme
 
 This VSCode theme merges the colors from [Hop Light Theme](https://github.com/bubersson/hop-theme-vscode) with the font styles (italic, bold, and underline) of [Tomorrow and Tomorrow Night Operator Mono Theme](https://github.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme)
 
